@@ -6,7 +6,8 @@ A simple command-line tool for managing product inventory. Users can add, view, 
 
 ## Preview
 
-![Go CLI Inventory](https://dl.dropboxusercontent.com/scl/fi/hxumrpoyhhx303mri0q1o/go-cli-inventory.gif?rlkey=zzjotiuh33vt12a84ww3t934g&st=ybdw88wl&dl=1)
+![go-cli-inventory](https://github.com/user-attachments/assets/061d9331-e2ee-4229-a614-7c757fee0e27)
+
 
 ## Features
 
